@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 406.69 377.34">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 110.47px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+      }
+
+      .cls-3 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-5 {
+        font-size: 95px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-7 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(1.08 244.34)"><tspan class="cls-1"><tspan x="0" y="0">MU</tspan><tspan class="cls-6" x="103.84" y="0">L</tspan><tspan x="133.23" y="0">TIMEDIA</tspan></tspan><tspan class="cls-5"><tspan x="-1.08" y="114">INTERGR</tspan><tspan class="cls-3" x="240.5" y="114">A</tspan><tspan x="274.23" y="114">TION</tspan></tspan></text>
+  <text class="cls-7" transform="translate(384.84 10.04)"><tspan class="cls-4" x="0" y="0">L</tspan><tspan x="5.5" y="0">or</tspan></text>
+</svg>

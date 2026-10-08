@@ -1,0 +1,17 @@
+Adobe After Effects v26.5 Windows 64 render log for project “Expressions.aep”
+
+Rendering started on 9/22/2026 at 7:15:18 PM
+
+  9/22/2026 7:15:19 PM: Starting composition “Expresions”.
+
+  Output To: D:\VANIER\sem3\mg1\Expresions.mp4    9/22/2026 7:15:45 PM: Finished composition “Expresions”.
+
+
+  9/22/2026 7:15:45 PM: Starting composition “Expresions”.
+
+  Output To: D:\VANIER\sem3\mg1\Expresions_1.mp4    9/22/2026 7:16:09 PM: Finished composition “Expresions”.
+
+
+  Total Time Elapsed: 51 Seconds
+Log closed on 9/22/2026 at 7:16:09 PM
+
